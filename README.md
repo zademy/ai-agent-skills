@@ -334,6 +334,65 @@ These skills are designed to be used with AI agents that support the Agent Skill
 2. **Detailed instructions** in Markdown
 3. **Practical code examples**
 
+---
+
+## 📋 Integration with Your Project
+
+This repository contains an `AGENTS.md` file that defines the routing system and workflow for AI agents. To use these skills in your project, you have two options:
+
+### Option 1: Add AGENTS.md to Your Project Root (Recommended)
+
+Simply copy the [`AGENTS.md`](AGENTS.md) file from this repository and place it in the **root directory** of your project. This allows any AI agent working on your project to:
+
+- Understand the skills-based workflow
+- Access specialized knowledge for different technologies
+- Follow consistent patterns and best practices
+
+**Folder Structure Example:**
+```
+your-project/
+├── src/
+├── AGENTS.md        ← Add this file here
+├── package.json
+└── README.md
+```
+
+### Option 2: Merge with Existing AGENTS.md
+
+If you already have an `AGENTS.md` file in your project, you can:
+
+1. Compare your existing file with this repository's `AGENTS.md`
+2. Merge the content, keeping any project-specific customizations
+3. Ensure the core workflow steps and CURL commands are preserved
+
+**Merge Tips:**
+- Preserve your project's custom instructions if they exist
+- Update the skills index CURL to always fetch the latest version from this repository
+- Keep the 5-step workflow process consistent
+
+### Why This Works
+
+The `AGENTS.md` file provides AI agents with:
+- **Clear workflow**: Step-by-step process for handling requests
+- **Skills catalog**: Dynamic access to technology-specific knowledge
+- **Best practices**: Consistent patterns across all technologies
+- **Up-to-date information**: CURL commands fetch the latest skills from the repository
+
+---
+
+## 🔄 Keeping Skills Updated
+
+To ensure your AI agent always has access to the latest skills:
+
+1. The workflow starts by executing the README.md CURL command
+2. This fetches the most recent skills index from this repository
+3. Agents then load only the specific skills needed for each request
+
+This approach ensures:
+- **Always current**: Skills are pulled fresh from the repository
+- **Minimal overhead**: Only necessary skills are loaded
+- **No local maintenance**: No need to sync skills manually
+
 ## 📝 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
