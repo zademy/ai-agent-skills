@@ -6,6 +6,7 @@ This repository contains a collection of skills for AI agents, organized by tech
 
 - [Programming Languages](#programming-languages)
 - [Frameworks and Libraries](#frameworks-and-libraries)
+- [DevOps and Containerization](#devops-and-containerization)
 - [Databases](#databases)
 - [ORM and Tools](#orm-and-tools)
 - [CSS Frameworks](#css-frameworks)
@@ -102,6 +103,17 @@ This repository contains a collection of skills for AI agents, organized by tech
 
 ## 🖥️ Frameworks and Libraries
 
+### Quarkus
+
+| Skill | Description | Path |
+|-------|-------------|------|
+| basics | Quarkus basics | [`quarkus/basics/SKILL.md`](quarkus/basics/SKILL.md) |
+| security | Security and JWT | [`quarkus/security/SKILL.md`](quarkus/security/SKILL.md) |
+| testing | Testing with JUnit | [`quarkus/testing/SKILL.md`](quarkus/testing/SKILL.md) |
+| config | Configuration | [`quarkus/config/SKILL.md`](quarkus/config/SKILL.md) |
+| messaging | Messaging (Kafka/RabbitMQ) | [`quarkus/messaging/SKILL.md`](quarkus/messaging/SKILL.md) |
+| kubernetes | Kubernetes deployment | [`quarkus/kubernetes/SKILL.md`](quarkus/kubernetes/SKILL.md) |
+
 ### Spring Boot
 
 | Skill | Description | Path |
@@ -195,6 +207,28 @@ This repository contains a collection of skills for AI agents, organized by tech
 
 ---
 
+## 🐳 DevOps and Containerization
+
+### Docker
+
+| Skill | Description | Path |
+|-------|-------------|------|
+| basics | Docker basics | [`docker/basics/SKILL.md`](docker/basics/SKILL.md) |
+| networks | Docker networking | [`docker/networks/SKILL.md`](docker/networks/SKILL.md) |
+| volumes | Volumes and persistence | [`docker/volumes/SKILL.md`](docker/volumes/SKILL.md) |
+| multi-stage | Multi-stage builds | [`docker/multi-stage/SKILL.md`](docker/multi-stage/SKILL.md) |
+| optimization | Image optimization | [`docker/optimization/SKILL.md`](docker/optimization/SKILL.md) |
+| security | Security best practices | [`docker/security/SKILL.md`](docker/security/SKILL.md) |
+
+### Shell Scripting
+
+| Skill | Description | Path |
+|-------|-------------|------|
+| basics | Shell scripting basics | [`shell/basics/SKILL.md`](shell/basics/SKILL.md) |
+| bash | Bash advanced features | [`bash/basics/SKILL.md`](bash/basics/SKILL.md) |
+
+---
+
 ## 📦 CSS Frameworks
 
 ### Bootstrap
@@ -282,12 +316,13 @@ This repository contains a collection of skills for AI agents, organized by tech
 | Category | Number of Skills |
 |----------|------------------|
 | Programming Languages | 41 |
-| Backend Frameworks | 26 |
+| Backend Frameworks | 32 |
+| DevOps and Containerization | 8 |
 | Frontend Frameworks | 26 |
 | CSS Frameworks | 9 |
 | Databases | 13 |
 | ORM and Tools | 4 |
-| **Total** | **119** |
+| **Total** | **133** |
 
 ---
 
