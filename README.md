@@ -29,6 +29,7 @@ This repository contains a collection of skills for AI agents, organized by tech
 | collections | Collections Framework | [`java/collections/SKILL.md`](java/collections/SKILL.md) |
 | dates | Date and time handling (java.time) | [`java/dates/SKILL.md`](java/dates/SKILL.md) |
 | streams | Streams API | [`java/streams/SKILL.md`](java/streams/SKILL.md) |
+| clean-code | Clean Code principles and best practices | [`java/clean-code/SKILL.md`](java/clean-code/SKILL.md) |
 
 ### Python
 
@@ -280,13 +281,13 @@ This repository contains a collection of skills for AI agents, organized by tech
 
 | Category | Number of Skills |
 |----------|------------------|
-| Programming Languages | 40 |
+| Programming Languages | 41 |
 | Backend Frameworks | 26 |
 | Frontend Frameworks | 26 |
 | CSS Frameworks | 9 |
 | Databases | 13 |
 | ORM and Tools | 4 |
-| **Total** | **118** |
+| **Total** | **119** |
 
 ---
 
