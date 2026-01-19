@@ -1,6 +1,15 @@
 ---
 name: networks
-description: Docker networking concepts and configuration
+description: >
+  Docker networking concepts and configuration.
+  Trigger: When working with Docker networking - bridge, host, overlay, compose networks
+license: Apache-2.0
+metadata:
+  author: ai-agent-skills
+  version: "1.0"
+  scope: [devops]
+  auto_invoke: "Docker Networks"
+allowed-tools: Read, Edit, Write, Glob, Grep, Bash
 ---
 
 # Docker Networks

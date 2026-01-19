@@ -1,6 +1,15 @@
 ---
 name: basic-queries
-description: Basic queries in MySQL
+description: >
+  Basic queries in MySQL.
+  Trigger: When working with MySQL queries - SELECT, INSERT, UPDATE, DELETE, JOINs
+license: Apache-2.0
+metadata:
+  author: ai-agent-skills
+  version: "1.0"
+  scope: [database]
+  auto_invoke: "MySQL Basic Queries / CRUD"
+allowed-tools: Read, Edit, Write, Glob, Grep, Bash
 ---
 
 # MySQL Basic Queries

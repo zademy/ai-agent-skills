@@ -1,6 +1,15 @@
 ---
 name: components
-description: Components in React with TypeScript and modern patterns
+description: >
+  Components in React with TypeScript and modern patterns.
+  Trigger: When working with React components - functional components, props, children, Server/Client Components
+license: Apache-2.0
+metadata:
+  author: ai-agent-skills
+  version: "1.0"
+  scope: [ui]
+  auto_invoke: "React Components"
+allowed-tools: Read, Edit, Write, Glob, Grep, Bash
 ---
 
 # Components React

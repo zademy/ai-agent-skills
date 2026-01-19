@@ -1,6 +1,15 @@
 ---
 name: auth
-description: Authentication with Firebase
+description: >
+  Authentication with Firebase.
+  Trigger: When working with Firebase Auth - signUp, signIn, signOut, social auth, auth state
+license: Apache-2.0
+metadata:
+  author: ai-agent-skills
+  version: "1.0"
+  scope: [backend]
+  auto_invoke: "Firebase Authentication"
+allowed-tools: Read, Edit, Write, Glob, Grep, Bash
 ---
 
 # Firebase Authentication

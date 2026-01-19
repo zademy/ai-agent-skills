@@ -1,6 +1,15 @@
 ---
 name: decorators
-description: Decorators in Python
+description: >
+  Decorators in Python.
+  Trigger: When working with decorators - @decorator, functools, wrapper, class decorators
+license: Apache-2.0
+metadata:
+  author: ai-agent-skills
+  version: "1.0"
+  scope: [core]
+  auto_invoke: "Python Decorators"
+allowed-tools: Read, Edit, Write, Glob, Grep, Bash
 ---
 
 # Python Decorators

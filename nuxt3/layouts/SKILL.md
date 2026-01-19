@@ -1,6 +1,15 @@
 ---
 name: layouts
-description: Layouts in Nuxt 3/4
+description: >
+  Layouts in Nuxt 3/4.
+  Trigger: When working with Nuxt layouts - default layout, custom layouts, slots, definePageMeta
+license: Apache-2.0
+metadata:
+  author: ai-agent-skills
+  version: "1.0"
+  scope: [ui]
+  auto_invoke: "Nuxt Layouts"
+allowed-tools: Read, Edit, Write, Glob, Grep, Bash
 ---
 
 # Layouts Nuxt

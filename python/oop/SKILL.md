@@ -1,6 +1,15 @@
 ---
 name: oop
-description: Object-oriented programming in Python
+description: >
+  Object-oriented programming in Python.
+  Trigger: When working with OOP in Python - classes, inheritance, properties, dataclasses, abstract classes
+license: Apache-2.0
+metadata:
+  author: ai-agent-skills
+  version: "1.0"
+  scope: [core]
+  auto_invoke: "Python OOP / Classes"
+allowed-tools: Read, Edit, Write, Glob, Grep, Bash
 ---
 
 # Python OOP

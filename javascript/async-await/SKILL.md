@@ -1,6 +1,15 @@
 ---
 name: async-await
-description: Async/Await in JavaScript
+description: >
+  Async/Await in JavaScript.
+  Trigger: When working with asynchronous operations - API calls, async functions, error handling
+license: Apache-2.0
+metadata:
+  author: ai-agent-skills
+  version: "1.0"
+  scope: [core]
+  auto_invoke: "Async / Promises / API"
+allowed-tools: Read, Edit, Write, Glob, Grep, Bash, WebFetch, WebSearch
 ---
 
 # Async/Await JavaScript

@@ -1,6 +1,15 @@
 ---
 name: optimization
-description: Docker image optimization and best practices
+description: >
+  Docker image optimization and best practices.
+  Trigger: When optimizing Docker images - layer caching, .dockerignore, image size, build time
+license: Apache-2.0
+metadata:
+  author: ai-agent-skills
+  version: "1.0"
+  scope: [devops]
+  auto_invoke: "Docker Optimization / Best Practices"
+allowed-tools: Read, Edit, Write, Glob, Grep, Bash
 ---
 
 # Docker Image Optimization

@@ -1,6 +1,15 @@
 ---
 name: async
-description: Asynchronous programming in Python
+description: >
+  Asynchronous programming in Python.
+  Trigger: When working with async Python - async/await, asyncio, tasks, coroutines, event loop
+license: Apache-2.0
+metadata:
+  author: ai-agent-skills
+  version: "1.0"
+  scope: [core]
+  auto_invoke: "Python Async / Asyncio"
+allowed-tools: Read, Edit, Write, Glob, Grep, Bash
 ---
 
 # Python Async

@@ -1,6 +1,15 @@
 ---
 name: plugins
-description: Plugins in Nuxt 3
+description: >
+  Plugins in Nuxt 3.
+  Trigger: When working with Nuxt plugins - client plugins, server plugins, providing methods, hooks
+license: Apache-2.0
+metadata:
+  author: ai-agent-skills
+  version: "1.0"
+  scope: [core]
+  auto_invoke: "Nuxt Plugins / Extensions"
+allowed-tools: Read, Edit, Write, Glob, Grep, Bash
 ---
 
 # Nuxt 3 Plugins

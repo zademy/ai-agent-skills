@@ -1,6 +1,15 @@
 ---
 name: components
-description: Components in Vue 4 with Composition API
+description: >
+  Components in Vue 4 with Composition API.
+  Trigger: When working with Vue 4 components - script setup, props, emits, slots
+license: Apache-2.0
+metadata:
+  author: ai-agent-skills
+  version: "1.0"
+  scope: [ui]
+  auto_invoke: "Vue 4 Components"
+allowed-tools: Read, Edit, Write, Glob, Grep, Bash
 ---
 
 # Components Vue 4

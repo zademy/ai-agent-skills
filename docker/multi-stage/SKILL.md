@@ -1,6 +1,15 @@
 ---
 name: multi-stage
-description: Docker multi-stage builds for optimized images
+description: >
+  Docker multi-stage builds for optimized images.
+  Trigger: When working with multi-stage builds - builder pattern, BuildKit, layered builds
+license: Apache-2.0
+metadata:
+  author: ai-agent-skills
+  version: "1.0"
+  scope: [devops]
+  auto_invoke: "Docker Multi-Stage / Build Optimization"
+allowed-tools: Read, Edit, Write, Glob, Grep, Bash
 ---
 
 # Multi-Stage Builds

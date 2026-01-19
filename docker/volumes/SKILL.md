@@ -1,6 +1,15 @@
 ---
 name: volumes
-description: Docker volumes and data persistence
+description: >
+  Docker volumes and data persistence.
+  Trigger: When working with Docker volumes - named volumes, bind mounts, tmpfs, data persistence
+license: Apache-2.0
+metadata:
+  author: ai-agent-skills
+  version: "1.0"
+  scope: [devops]
+  auto_invoke: "Docker Volumes / Data Persistence"
+allowed-tools: Read, Edit, Write, Glob, Grep, Bash
 ---
 
 # Docker Volumes

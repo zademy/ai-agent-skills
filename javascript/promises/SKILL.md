@@ -1,6 +1,15 @@
 ---
 name: promises
-description: Promises in JavaScript
+description: >
+  Promises in JavaScript.
+  Trigger: When working with Promises - Promise.all, Promise.race, chaining, states
+license: Apache-2.0
+metadata:
+  author: ai-agent-skills
+  version: "1.0"
+  scope: [core]
+  auto_invoke: "Promises / Async"
+allowed-tools: Read, Edit, Write, Glob, Grep, Bash, WebFetch, WebSearch
 ---
 
 # JavaScript Promises

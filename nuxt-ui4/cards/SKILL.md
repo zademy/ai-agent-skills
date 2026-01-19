@@ -1,6 +1,15 @@
 ---
 name: cards
-description: Cards in Nuxt UI v4
+description: >
+  Cards in Nuxt UI v4.
+  Trigger: When working with cards - UCard, variants, slots, headers, footers, actions
+license: Apache-2.0
+metadata:
+  author: ai-agent-skills
+  version: "1.0"
+  scope: [ui]
+  auto_invoke: "Nuxt UI Cards / Containers"
+allowed-tools: Read, Edit, Write, Glob, Grep, Bash
 ---
 
 # Nuxt UI v4 Cards

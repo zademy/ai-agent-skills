@@ -1,6 +1,15 @@
 ---
 name: basics
-description: Astro basics
+description: >
+  Astro basics.
+  Trigger: When working with Astro - components, layouts, props, slots, SSG, SSR
+license: Apache-2.0
+metadata:
+  author: ai-agent-skills
+  version: "1.0"
+  scope: [ui]
+  auto_invoke: "Astro / Static Site"
+allowed-tools: Read, Edit, Write, Glob, Grep, Bash
 ---
 
 # Astro Basics

@@ -1,6 +1,15 @@
 ---
 name: caching
-description: Caching patterns with Redis
+description: >
+  Caching patterns with Redis.
+  Trigger: When implementing caching - cache-aside, session store, rate limiting, pub/sub
+license: Apache-2.0
+metadata:
+  author: ai-agent-skills
+  version: "1.0"
+  scope: [database]
+  auto_invoke: "Redis Caching / Patterns"
+allowed-tools: Read, Edit, Write, Glob, Grep, Bash
 ---
 
 # Redis Caching Patterns

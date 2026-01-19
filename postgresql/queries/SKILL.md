@@ -1,6 +1,15 @@
 ---
 name: queries
-description: PostgreSQL queries
+description: >
+  PostgreSQL queries.
+  Trigger: When working with PostgreSQL queries - JOINs, aggregations, window functions, CTEs
+license: Apache-2.0
+metadata:
+  author: ai-agent-skills
+  version: "1.0"
+  scope: [database]
+  auto_invoke: "PostgreSQL Queries / SQL"
+allowed-tools: Read, Edit, Write, Glob, Grep, Bash
 ---
 
 # PostgreSQL Queries

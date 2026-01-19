@@ -1,6 +1,15 @@
 ---
 name: composables
-description: Composables in Nuxt 4
+description: >
+  Composables in Nuxt 4.
+  Trigger: When working with Nuxt 4 composables - useState, custom hooks, data fetching
+license: Apache-2.0
+metadata:
+  author: ai-agent-skills
+  version: "1.0"
+  scope: [core]
+  auto_invoke: "Nuxt 4 Composables / State"
+allowed-tools: Read, Edit, Write, Glob, Grep, Bash
 ---
 
 # Composables Nuxt 4

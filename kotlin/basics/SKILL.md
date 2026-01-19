@@ -1,6 +1,15 @@
 ---
 name: basics
-description: Kotlin basics
+description: >
+  Kotlin basics.
+  Trigger: When working with Kotlin - variables, functions, control flow, null safety, lambdas
+license: Apache-2.0
+metadata:
+  author: ai-agent-skills
+  version: "1.0"
+  scope: [backend]
+  auto_invoke: "Kotlin Basics"
+allowed-tools: Read, Edit, Write, Glob, Grep, Bash
 ---
 
 # Kotlin Basics

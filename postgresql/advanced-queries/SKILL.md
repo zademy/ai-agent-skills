@@ -1,6 +1,15 @@
 ---
 name: advanced-queries
-description: Advanced queries in PostgreSQL
+description: >
+  Advanced queries in PostgreSQL.
+  Trigger: When working with advanced SQL - aggregations, window functions, subqueries, CTEs, transactions
+license: Apache-2.0
+metadata:
+  author: ai-agent-skills
+  version: "1.0"
+  scope: [database]
+  auto_invoke: "PostgreSQL Advanced Queries"
+allowed-tools: Read, Edit, Write, Glob, Grep, Bash
 ---
 
 # PostgreSQL Advanced Queries

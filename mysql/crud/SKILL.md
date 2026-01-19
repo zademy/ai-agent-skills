@@ -1,6 +1,15 @@
 ---
 name: crud
-description: CRUD operations in MySQL
+description: >
+  CRUD operations in MySQL.
+  Trigger: When working with MySQL CRUD - INSERT, SELECT, UPDATE, DELETE, transactions
+license: Apache-2.0
+metadata:
+  author: ai-agent-skills
+  version: "1.0"
+  scope: [database]
+  auto_invoke: "MySQL CRUD / Operations"
+allowed-tools: Read, Edit, Write, Glob, Grep, Bash
 ---
 
 # MySQL CRUD Operations

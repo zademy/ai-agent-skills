@@ -1,6 +1,15 @@
 ---
 name: oop
-description: Object-oriented programming in Kotlin
+description: >
+  Object-oriented programming in Kotlin.
+  Trigger: When working with Kotlin OOP - classes, inheritance, interfaces, data classes, sealed classes
+license: Apache-2.0
+metadata:
+  author: ai-agent-skills
+  version: "1.0"
+  scope: [backend]
+  auto_invoke: "Kotlin OOP"
+allowed-tools: Read, Edit, Write, Glob, Grep, Bash
 ---
 
 # Kotlin OOP

@@ -1,6 +1,15 @@
 ---
 name: security
-description: Docker security best practices
+description: >
+  Docker security best practices.
+  Trigger: When securing Docker containers - non-root user, scanning, policies, secrets
+license: Apache-2.0
+metadata:
+  author: ai-agent-skills
+  version: "1.0"
+  scope: [devops]
+  auto_invoke: "Docker Security"
+allowed-tools: Read, Edit, Write, Glob, Grep, Bash
 ---
 
 # Docker Security

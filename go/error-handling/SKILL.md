@@ -1,6 +1,15 @@
 ---
 name: error-handling
-description: Error handling in Go
+description: >
+  Error handling in Go.
+  Trigger: When handling errors in Go - custom errors, error wrapping, panic, recover
+license: Apache-2.0
+metadata:
+  author: ai-agent-skills
+  version: "1.0"
+  scope: [backend]
+  auto_invoke: "Go Error Handling"
+allowed-tools: Read, Edit, Write, Glob, Grep, Bash
 ---
 
 # Go Error Handling

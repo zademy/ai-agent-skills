@@ -1,6 +1,15 @@
 ---
 name: forms
-description: Forms with Bootstrap
+description: >
+  Forms with Bootstrap.
+  Trigger: When working with Bootstrap forms - form controls, floating labels, selects, validation
+license: Apache-2.0
+metadata:
+  author: ai-agent-skills
+  version: "1.0"
+  scope: [ui]
+  auto_invoke: "Bootstrap Forms"
+allowed-tools: Read, Edit, Write, Glob, Grep, Bash
 ---
 
 # Bootstrap Forms

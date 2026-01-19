@@ -1,6 +1,15 @@
 ---
 name: advanced-queries
-description: Advanced queries in MySQL
+description: >
+  Advanced queries in MySQL.
+  Trigger: When working with advanced MySQL - window functions, CTEs, subqueries, indexes, EXPLAIN
+license: Apache-2.0
+metadata:
+  author: ai-agent-skills
+  version: "1.0"
+  scope: [database]
+  auto_invoke: "MySQL Advanced Queries"
+allowed-tools: Read, Edit, Write, Glob, Grep, Bash
 ---
 
 # MySQL Advanced Queries

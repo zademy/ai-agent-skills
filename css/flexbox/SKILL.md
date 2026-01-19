@@ -1,6 +1,15 @@
 ---
 name: flexbox
-description: CSS Flexbox modern
+description: >
+  CSS Flexbox modern.
+  Trigger: When working with CSS Flexbox - display: flex, justify-content, align-items, gap, flex properties
+license: Apache-2.0
+metadata:
+  author: ai-agent-skills
+  version: "1.0"
+  scope: [ui]
+  auto_invoke: "CSS Flexbox / Layout"
+allowed-tools: Read, Edit, Write, Glob, Grep, Bash
 ---
 
 # CSS Flexbox

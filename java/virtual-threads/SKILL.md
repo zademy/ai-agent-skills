@@ -1,6 +1,15 @@
 ---
 name: virtual-threads
-description: Virtual threads in Java (Project Loom)
+description: >
+  Virtual threads in Java (Project Loom).
+  Trigger: When working with Java virtual threads - lightweight threads, structured concurrency, Project Loom
+license: Apache-2.0
+metadata:
+  author: ai-agent-skills
+  version: "1.0"
+  scope: [backend]
+  auto_invoke: "Java Virtual Threads / Loom"
+allowed-tools: Read, Edit, Write, Glob, Grep, Bash
 ---
 
 # Java Virtual threads (Java 21+)

@@ -1,6 +1,15 @@
 ---
 name: basics
-description: Python basics
+description: >
+  Python basics.
+  Trigger: When working with Python - variables, types, operators, control flow, functions
+license: Apache-2.0
+metadata:
+  author: ai-agent-skills
+  version: "1.0"
+  scope: [core]
+  auto_invoke: "Python Basics / Core"
+allowed-tools: Read, Edit, Write, Glob, Grep, Bash
 ---
 
 # Python Basics

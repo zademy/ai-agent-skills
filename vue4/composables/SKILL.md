@@ -1,6 +1,15 @@
 ---
 name: composables
-description: Composables in Vue 4 with Composition API
+description: >
+  Composables in Vue 4 with Composition API.
+  Trigger: When working with Vue 4 composables - custom hooks, state management, data fetching
+license: Apache-2.0
+metadata:
+  author: ai-agent-skills
+  version: "1.0"
+  scope: [ui]
+  auto_invoke: "Vue 4 Composables"
+allowed-tools: Read, Edit, Write, Glob, Grep, Bash
 ---
 
 # Composables Vue 4

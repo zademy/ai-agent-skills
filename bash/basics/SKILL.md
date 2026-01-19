@@ -1,6 +1,15 @@
 ---
 name: basics
-description: Bash scripting basics and best practices
+description: >
+  Bash scripting basics and best practices.
+  Trigger: When writing bash scripts - arrays, strings, pipelines, pattern matching, parallelization
+license: Apache-2.0
+metadata:
+  author: ai-agent-skills
+  version: "1.0"
+  scope: [devops]
+  auto_invoke: "Bash / Shell Scripting"
+allowed-tools: Read, Edit, Write, Glob, Grep, Bash
 ---
 
 # Bash Scripting Basics

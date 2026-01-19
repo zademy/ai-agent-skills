@@ -1,6 +1,15 @@
 ---
 name: composables
-description: Composables in Nuxt 3/4 with practical examples
+description: >
+  Composables in Nuxt 3/4 with practical examples.
+  Trigger: When working with Nuxt composables - useState, custom composables, useFetch, useAuth
+license: Apache-2.0
+metadata:
+  author: ai-agent-skills
+  version: "1.0"
+  scope: [core]
+  auto_invoke: "Nuxt Composables / State"
+allowed-tools: Read, Edit, Write, Glob, Grep, Bash
 ---
 
 # Composables Nuxt

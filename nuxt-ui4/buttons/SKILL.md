@@ -1,6 +1,15 @@
 ---
 name: buttons
-description: UButton in Nuxt UI 4
+description: >
+  UButton in Nuxt UI 4.
+  Trigger: When working with buttons - variants, sizes, states, icons, loading states
+license: Apache-2.0
+metadata:
+  author: ai-agent-skills
+  version: "1.0"
+  scope: [ui]
+  auto_invoke: "Nuxt UI Buttons"
+allowed-tools: Read, Edit, Write, Glob, Grep, Bash
 ---
 
 # UButton Nuxt UI 4

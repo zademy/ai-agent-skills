@@ -1,6 +1,15 @@
 ---
 name: hooks
-description: React Hooks with React 19 and updated TypeScript
+description: >
+  React Hooks with React 19 and updated TypeScript.
+  Trigger: When working with hooks - useState, useEffect, useRef, useContext, useCallback, useMemo, custom hooks
+license: Apache-2.0
+metadata:
+  author: ai-agent-skills
+  version: "1.0"
+  scope: [ui]
+  auto_invoke: "React Hooks / Lifecycle"
+allowed-tools: Read, Edit, Write, Glob, Grep, Bash
 ---
 
 # React Hooks (React 19)

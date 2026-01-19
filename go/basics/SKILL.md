@@ -1,6 +1,15 @@
 ---
 name: basics
-description: Go basics
+description: >
+  Go basics.
+  Trigger: When working with Go - variables, types, control flow, functions, pointers
+license: Apache-2.0
+metadata:
+  author: ai-agent-skills
+  version: "1.0"
+  scope: [backend]
+  auto_invoke: "Go / Backend"
+allowed-tools: Read, Edit, Write, Glob, Grep, Bash
 ---
 
 # Go Basics

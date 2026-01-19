@@ -1,6 +1,15 @@
 ---
 name: server-actions
-description: Server Actions in Next.js
+description: >
+  Server Actions in Next.js.
+  Trigger: When working with Server Actions - form submissions, mutations, useFormState, revalidatePath, redirect
+license: Apache-2.0
+metadata:
+  author: ai-agent-skills
+  version: "1.0"
+  scope: [ui]
+  auto_invoke: "Server Actions / Mutations"
+allowed-tools: Read, Edit, Write, Glob, Grep, Bash
 ---
 
 # Next.js Server Actions

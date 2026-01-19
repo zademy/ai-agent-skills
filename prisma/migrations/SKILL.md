@@ -1,6 +1,15 @@
 ---
 name: migrations
-description: Migrations in Prisma
+description: >
+  Migrations in Prisma.
+  Trigger: When managing Prisma migrations - migrate dev, deploy, reset, seed, custom SQL
+license: Apache-2.0
+metadata:
+  author: ai-agent-skills
+  version: "1.0"
+  scope: [database]
+  auto_invoke: "Prisma Migrations / DB Management"
+allowed-tools: Read, Edit, Write, Glob, Grep, Bash
 ---
 
 # Prisma Migrations

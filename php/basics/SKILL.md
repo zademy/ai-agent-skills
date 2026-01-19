@@ -1,6 +1,15 @@
 ---
 name: basics
-description: PHP basics
+description: >
+  PHP basics.
+  Trigger: When working with PHP - variables, types, operators, control flow, functions
+license: Apache-2.0
+metadata:
+  author: ai-agent-skills
+  version: "1.0"
+  scope: [backend]
+  auto_invoke: "PHP / Backend"
+allowed-tools: Read, Edit, Write, Glob, Grep, Bash
 ---
 
 # PHP Basics

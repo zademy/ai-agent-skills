@@ -1,6 +1,15 @@
 ---
 name: types
-description: Basic types in TypeScript
+description: >
+  Basic types in TypeScript.
+  Trigger: When working with TypeScript types - primitives, unions, intersections, literals, type aliases
+license: Apache-2.0
+metadata:
+  author: ai-agent-skills
+  version: "1.0"
+  scope: [core]
+  auto_invoke: "TypeScript Types"
+allowed-tools: Read, Edit, Write, Glob, Grep, Bash
 ---
 
 # TypeScript Types

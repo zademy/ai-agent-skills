@@ -1,6 +1,15 @@
 ---
 name: schema
-description: Schema in Prisma ORM
+description: >
+  Schema in Prisma ORM.
+  Trigger: When defining Prisma schema - models, relations, attributes, indexes, constraints
+license: Apache-2.0
+metadata:
+  author: ai-agent-skills
+  version: "1.0"
+  scope: [database]
+  auto_invoke: "Prisma Schema / Models"
+allowed-tools: Read, Edit, Write, Glob, Grep, Bash
 ---
 
 # Prisma Schema

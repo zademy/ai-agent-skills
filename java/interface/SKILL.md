@@ -1,6 +1,15 @@
 ---
 name: interface
-description: Interfaces in Java
+description: >
+  Interfaces in Java.
+  Trigger: When working with Java interfaces - functional interfaces, default methods, abstract methods
+license: Apache-2.0
+metadata:
+  author: ai-agent-skills
+  version: "1.0"
+  scope: [backend]
+  auto_invoke: "Java Interfaces / Contracts"
+allowed-tools: Read, Edit, Write, Glob, Grep, Bash
 ---
 
 # Interfaces Java

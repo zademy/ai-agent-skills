@@ -1,6 +1,15 @@
 ---
 name: crud
-description: CRUD operations in MongoDB
+description: >
+  CRUD operations in MongoDB.
+  Trigger: When working with MongoDB CRUD - insertOne, find, updateOne, deleteOne, operators
+license: Apache-2.0
+metadata:
+  author: ai-agent-skills
+  version: "1.0"
+  scope: [database]
+  auto_invoke: "MongoDB CRUD / Operations"
+allowed-tools: Read, Edit, Write, Glob, Grep, Bash
 ---
 
 # MongoDB CRUD Operations

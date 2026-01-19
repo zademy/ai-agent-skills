@@ -1,6 +1,15 @@
 ---
 name: clean-code
-description: Clean Code principles and best practices for Java development
+description: >
+  Clean Code principles and best practices for Java development.
+  Trigger: When writing clean Java code - SOLID principles, naming, functions, error handling, testing
+license: Apache-2.0
+metadata:
+  author: ai-agent-skills
+  version: "1.0"
+  scope: [backend]
+  auto_invoke: "Java Clean Code / Best Practices"
+allowed-tools: Read, Edit, Write, Glob, Grep, Bash
 ---
 
 # Clean Code en Java

@@ -1,6 +1,15 @@
 ---
 name: grid
-description: Grid system in Bootstrap 5 with 12 columns
+description: >
+  Grid system in Bootstrap 5 with 12 columns.
+  Trigger: When working with Bootstrap grid - container, row, col, breakpoints, responsive design
+license: Apache-2.0
+metadata:
+  author: ai-agent-skills
+  version: "1.0"
+  scope: [ui]
+  auto_invoke: "Bootstrap Grid / Layout"
+allowed-tools: Read, Edit, Write, Glob, Grep, Bash
 ---
 
 # Grid Bootstrap 5

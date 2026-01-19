@@ -1,6 +1,15 @@
 ---
 name: components
-description: Components in Nuxt 3 and 4 with auto-import
+description: >
+  Components in Nuxt 3 and 4 with auto-import.
+  Trigger: When working with Nuxt components - auto-import, props, emits, nested components
+license: Apache-2.0
+metadata:
+  author: ai-agent-skills
+  version: "1.0"
+  scope: [ui]
+  auto_invoke: "Nuxt Components"
+allowed-tools: Read, Edit, Write, Glob, Grep, Bash
 ---
 
 # Components Nuxt

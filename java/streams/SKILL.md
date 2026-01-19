@@ -1,6 +1,15 @@
 ---
 name: streams
-description: Streams API in Java
+description: >
+  Streams API in Java.
+  Trigger: When working with Java streams - filter, map, reduce, collect, parallel streams
+license: Apache-2.0
+metadata:
+  author: ai-agent-skills
+  version: "1.0"
+  scope: [backend]
+  auto_invoke: "Java Streams / Pipeline"
+allowed-tools: Read, Edit, Write, Glob, Grep, Bash
 ---
 
 # Java Streams API

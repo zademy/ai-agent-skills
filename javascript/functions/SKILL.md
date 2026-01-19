@@ -1,6 +1,15 @@
 ---
 name: functions
-description: Functions in modern JavaScript
+description: >
+  Functions in modern JavaScript.
+  Trigger: When working with functions - arrow functions, closures, parameters, callbacks
+license: Apache-2.0
+metadata:
+  author: ai-agent-skills
+  version: "1.0"
+  scope: [core]
+  auto_invoke: "Functions / Callbacks"
+allowed-tools: Read, Edit, Write, Glob, Grep, Bash
 ---
 
 # Functions JavaScript

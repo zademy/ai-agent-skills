@@ -1,6 +1,15 @@
 ---
 name: forms
-description: Forms in Nuxt UI 4 with UForm
+description: >
+  Forms in Nuxt UI 4 with UForm.
+  Trigger: When working with forms - UForm, UFormGroup, UInput, validation, submit handling
+license: Apache-2.0
+metadata:
+  author: ai-agent-skills
+  version: "1.0"
+  scope: [ui]
+  auto_invoke: "Nuxt UI Forms"
+allowed-tools: Read, Edit, Write, Glob, Grep, Bash
 ---
 
 # Forms Nuxt UI 4

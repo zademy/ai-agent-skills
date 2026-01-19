@@ -1,6 +1,15 @@
 ---
 name: record
-description: Records in Java (Java 16+)
+description: >
+  Records in Java (Java 16+).
+  Trigger: When working with Java records - immutable data classes, DTOs, validation
+license: Apache-2.0
+metadata:
+  author: ai-agent-skills
+  version: "1.0"
+  scope: [backend]
+  auto_invoke: "Java Records / Data Classes"
+allowed-tools: Read, Edit, Write, Glob, Grep, Bash
 ---
 
 # Java Record

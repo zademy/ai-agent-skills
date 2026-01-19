@@ -1,6 +1,15 @@
 ---
 name: dates
-description: Handling dates and time in Java
+description: >
+  Handling dates and time in Java.
+  Trigger: When working with Java dates - LocalDate, LocalTime, LocalDateTime, ZonedDateTime, Period, Duration
+license: Apache-2.0
+metadata:
+  author: ai-agent-skills
+  version: "1.0"
+  scope: [backend]
+  auto_invoke: "Java Dates / Time API"
+allowed-tools: Read, Edit, Write, Glob, Grep, Bash
 ---
 
 # Java Dates y Time (java.time)

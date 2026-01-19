@@ -1,6 +1,15 @@
 ---
 name: oop
-description: Object-oriented programming in PHP
+description: >
+  Object-oriented programming in PHP.
+  Trigger: When working with PHP OOP - classes, inheritance, interfaces, traits, enums
+license: Apache-2.0
+metadata:
+  author: ai-agent-skills
+  version: "1.0"
+  scope: [backend]
+  auto_invoke: "PHP OOP"
+allowed-tools: Read, Edit, Write, Glob, Grep, Bash
 ---
 
 # PHP OOP

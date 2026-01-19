@@ -1,6 +1,15 @@
 ---
 name: basics
-description: Prisma basics
+description: >
+  Prisma basics.
+  Trigger: When working with Prisma - setup, schema, client usage, basic CRUD operations
+license: Apache-2.0
+metadata:
+  author: ai-agent-skills
+  version: "1.0"
+  scope: [database]
+  auto_invoke: "Prisma / ORM Basics"
+allowed-tools: Read, Edit, Write, Glob, Grep, Bash
 ---
 
 # Prisma Basics

@@ -1,6 +1,15 @@
 ---
 name: pages
-description: Pages system in Nuxt 3 and Nuxt 4
+description: >
+  Pages system in Nuxt 3 and Nuxt 4.
+  Trigger: When working with Nuxt pages - dynamic routes, nested pages, definePageMeta, NuxtPage
+license: Apache-2.0
+metadata:
+  author: ai-agent-skills
+  version: "1.0"
+  scope: [ui]
+  auto_invoke: "Nuxt Pages / Routing"
+allowed-tools: Read, Edit, Write, Glob, Grep, Bash
 ---
 
 # Páginas en Nuxt 3/4

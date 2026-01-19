@@ -1,6 +1,15 @@
 ---
 name: grid
-description: CSS Grid Layout
+description: >
+  CSS Grid Layout.
+  Trigger: When working with CSS Grid - display: grid, grid-template-columns, areas, responsive grids
+license: Apache-2.0
+metadata:
+  author: ai-agent-skills
+  version: "1.0"
+  scope: [ui]
+  auto_invoke: "CSS Grid / Layout"
+allowed-tools: Read, Edit, Write, Glob, Grep, Bash
 ---
 
 # CSS Grid

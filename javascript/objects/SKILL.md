@@ -1,6 +1,15 @@
 ---
 name: objects
-description: Objects in JavaScript
+description: >
+  Objects in JavaScript.
+  Trigger: When working with objects - literals, destructuring, spread, methods, prototypes
+license: Apache-2.0
+metadata:
+  author: ai-agent-skills
+  version: "1.0"
+  scope: [core]
+  auto_invoke: "Objects / Data Structures"
+allowed-tools: Read, Edit, Write, Glob, Grep, Bash
 ---
 
 # JavaScript Objects

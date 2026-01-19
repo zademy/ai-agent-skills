@@ -1,6 +1,15 @@
 ---
 name: state-management
-description: State Management in React
+description: >
+  State Management in React.
+  Trigger: When working with state management - useState, useReducer, useContext, Zustand, Jotai
+license: Apache-2.0
+metadata:
+  author: ai-agent-skills
+  version: "1.0"
+  scope: [ui]
+  auto_invoke: "State Management / Store"
+allowed-tools: Read, Edit, Write, Glob, Grep, Bash
 ---
 
 # React State Management

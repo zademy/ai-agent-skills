@@ -1,6 +1,15 @@
 ---
 name: skills
-description: Skills in Vue 4
+description: >
+  Skills in Vue 4 - defineProps, defineEmits, defineSlots, defineModel.
+  Trigger: When working with Vue 4 skills - props definition, emits, slots, model binding
+license: Apache-2.0
+metadata:
+  author: ai-agent-skills
+  version: "1.0"
+  scope: [ui]
+  auto_invoke: "Vue 4 Skills / Macros"
+allowed-tools: Read, Edit, Write, Glob, Grep, Bash
 ---
 
 # Vue 4 Skills

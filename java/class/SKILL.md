@@ -1,6 +1,15 @@
 ---
 name: class
-description: Classes in Java with best practices
+description: >
+  Classes in Java with best practices.
+  Trigger: When working with Java classes - constructors, getters/setters, records, Lombok
+license: Apache-2.0
+metadata:
+  author: ai-agent-skills
+  version: "1.0"
+  scope: [backend]
+  auto_invoke: "Java Classes / OOP"
+allowed-tools: Read, Edit, Write, Glob, Grep, Bash
 ---
 
 # Classes Java

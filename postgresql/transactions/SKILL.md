@@ -1,6 +1,15 @@
 ---
 name: transactions
-description: Transactions in PostgreSQL
+description: >
+  Transactions in PostgreSQL.
+  Trigger: When working with PostgreSQL transactions - BEGIN, COMMIT, ROLLBACK, SAVEPOINT, isolation levels
+license: Apache-2.0
+metadata:
+  author: ai-agent-skills
+  version: "1.0"
+  scope: [database]
+  auto_invoke: "PostgreSQL Transactions"
+allowed-tools: Read, Edit, Write, Glob, Grep, Bash
 ---
 
 # PostgreSQL Transactions

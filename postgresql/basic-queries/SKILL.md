@@ -1,6 +1,15 @@
 ---
 name: basic-queries
-description: Basic queries in PostgreSQL
+description: >
+  Basic queries in PostgreSQL.
+  Trigger: When working with basic SQL queries - SELECT, INSERT, UPDATE, DELETE, JOINs
+license: Apache-2.0
+metadata:
+  author: ai-agent-skills
+  version: "1.0"
+  scope: [database]
+  auto_invoke: "PostgreSQL Basic Queries / CRUD"
+allowed-tools: Read, Edit, Write, Glob, Grep, Bash
 ---
 
 # PostgreSQL Basic Queries

@@ -1,6 +1,15 @@
 ---
 name: basic-operations
-description: Basic operations in Redis
+description: >
+  Basic operations in Redis.
+  Trigger: When working with Redis - strings, hashes, lists, sets, sorted sets, keys
+license: Apache-2.0
+metadata:
+  author: ai-agent-skills
+  version: "1.0"
+  scope: [database]
+  auto_invoke: "Redis / Cache Operations"
+allowed-tools: Read, Edit, Write, Glob, Grep, Bash
 ---
 
 # Redis Basic Operations

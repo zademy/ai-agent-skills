@@ -1,6 +1,15 @@
 ---
 name: lambdas
-description: Lambdas and Functional Interfaces in Java
+description: >
+  Lambdas and Functional Interfaces in Java.
+  Trigger: When working with Java lambdas - lambda expressions, functional interfaces, method references
+license: Apache-2.0
+metadata:
+  author: ai-agent-skills
+  version: "1.0"
+  scope: [backend]
+  auto_invoke: "Java Lambdas / Functional"
+allowed-tools: Read, Edit, Write, Glob, Grep, Bash
 ---
 
 # Java Lambdas y Functional Interfaces

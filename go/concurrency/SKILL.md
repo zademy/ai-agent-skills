@@ -1,6 +1,15 @@
 ---
 name: concurrency
-description: Concurrency in Go (Goroutines and Channels)
+description: >
+  Concurrency in Go (Goroutines and Channels).
+  Trigger: When working with Go concurrency - goroutines, channels, WaitGroup, Mutex, context
+license: Apache-2.0
+metadata:
+  author: ai-agent-skills
+  version: "1.0"
+  scope: [backend]
+  auto_invoke: "Go Concurrency / Async"
+allowed-tools: Read, Edit, Write, Glob, Grep, Bash
 ---
 
 # Go Concurrency

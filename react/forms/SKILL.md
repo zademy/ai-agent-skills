@@ -1,6 +1,15 @@
 ---
 name: forms
-description: Forms in React
+description: >
+  Forms in React.
+  Trigger: When working with forms - controlled inputs, validation, React Hook Form, Zod
+license: Apache-2.0
+metadata:
+  author: ai-agent-skills
+  version: "1.0"
+  scope: [ui]
+  auto_invoke: "React Forms / Validation"
+allowed-tools: Read, Edit, Write, Glob, Grep, Bash
 ---
 
 # React Forms

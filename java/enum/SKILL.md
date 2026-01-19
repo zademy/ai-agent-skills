@@ -1,6 +1,15 @@
 ---
 name: enum
-description: Enums in Java
+description: >
+  Enums in Java.
+  Trigger: When working with Java enums - enum types, fields, methods, abstract methods
+license: Apache-2.0
+metadata:
+  author: ai-agent-skills
+  version: "1.0"
+  scope: [backend]
+  auto_invoke: "Java Enums"
+allowed-tools: Read, Edit, Write, Glob, Grep, Bash
 ---
 
 # Java Enum

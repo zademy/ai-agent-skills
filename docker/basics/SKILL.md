@@ -1,6 +1,15 @@
 ---
 name: basics
-description: Docker basics and best practices
+description: >
+  Docker basics and best practices.
+  Trigger: When working with Docker - Dockerfile, docker-compose, images, containers, volumes
+license: Apache-2.0
+metadata:
+  author: ai-agent-skills
+  version: "1.0"
+  scope: [devops]
+  auto_invoke: "Docker / Containers"
+allowed-tools: Read, Edit, Write, Glob, Grep, Bash
 ---
 
 # Docker Basics

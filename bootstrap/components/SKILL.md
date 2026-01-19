@@ -1,6 +1,15 @@
 ---
 name: components
-description: Main components in Bootstrap 5
+description: >
+  Main components in Bootstrap 5.
+  Trigger: When working with Bootstrap components - buttons, alerts, cards, navbar, modals, tables
+license: Apache-2.0
+metadata:
+  author: ai-agent-skills
+  version: "1.0"
+  scope: [ui]
+  auto_invoke: "Bootstrap Components / UI Kit"
+allowed-tools: Read, Edit, Write, Glob, Grep, Bash
 ---
 
 # Components Bootstrap 5

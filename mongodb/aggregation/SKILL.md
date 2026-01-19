@@ -1,6 +1,15 @@
 ---
 name: aggregation
-description: Aggregation pipeline in MongoDB
+description: >
+  Aggregation pipeline in MongoDB.
+  Trigger: When working with MongoDB aggregation - $match, $group, $lookup, $project, $sort
+license: Apache-2.0
+metadata:
+  author: ai-agent-skills
+  version: "1.0"
+  scope: [database]
+  auto_invoke: "MongoDB Aggregation / Pipeline"
+allowed-tools: Read, Edit, Write, Glob, Grep, Bash
 ---
 
 # MongoDB Aggregation Pipeline

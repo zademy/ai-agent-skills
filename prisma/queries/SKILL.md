@@ -1,6 +1,15 @@
 ---
 name: queries
-description: Queries with Prisma Client
+description: >
+  Queries with Prisma Client.
+  Trigger: When writing Prisma queries - findMany, where, include, aggregations, groupBy
+license: Apache-2.0
+metadata:
+  author: ai-agent-skills
+  version: "1.0"
+  scope: [database]
+  auto_invoke: "Prisma Queries / Client"
+allowed-tools: Read, Edit, Write, Glob, Grep, Bash
 ---
 
 # Prisma Queries

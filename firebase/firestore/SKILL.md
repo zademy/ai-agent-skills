@@ -1,6 +1,15 @@
 ---
 name: firestore
-description: CRUD operations in Firebase Firestore
+description: >
+  CRUD operations in Firebase Firestore.
+  Trigger: When working with Firestore - addDoc, getDoc, getDocs, updateDoc, deleteDoc, queries
+license: Apache-2.0
+metadata:
+  author: ai-agent-skills
+  version: "1.0"
+  scope: [database]
+  auto_invoke: "Firebase Firestore / NoSQL"
+allowed-tools: Read, Edit, Write, Glob, Grep, Bash
 ---
 
 # Firebase Firestore CRUD

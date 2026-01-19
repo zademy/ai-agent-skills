@@ -1,6 +1,15 @@
 ---
 name: data-fetching
-description: Data fetching in Nuxt 3/4 with useFetch and useAsyncData
+description: >
+  Data fetching in Nuxt 3/4 with useFetch and useAsyncData.
+  Trigger: When working with data fetching - API calls, useFetch, useAsyncData, route rules, caching
+license: Apache-2.0
+metadata:
+  author: ai-agent-skills
+  version: "1.0"
+  scope: [core]
+  auto_invoke: "Nuxt Data Fetching / API"
+allowed-tools: Read, Edit, Write, Glob, Grep, Bash, WebFetch, WebSearch
 ---
 
 # Data Fetching Nuxt

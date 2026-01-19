@@ -1,6 +1,15 @@
 ---
 name: collections
-description: Collections Framework in Java
+description: >
+  Collections Framework in Java.
+  Trigger: When working with Java collections - List, Set, Queue, Map, iterators
+license: Apache-2.0
+metadata:
+  author: ai-agent-skills
+  version: "1.0"
+  scope: [backend]
+  auto_invoke: "Java Collections / Data Structures"
+allowed-tools: Read, Edit, Write, Glob, Grep, Bash
 ---
 
 # Java Collections Framework

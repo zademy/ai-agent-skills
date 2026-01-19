@@ -1,6 +1,15 @@
 ---
 name: arrays
-description: Array methods in JavaScript
+description: >
+  Array methods in JavaScript.
+  Trigger: When working with arrays - map, filter, reduce, find, sort
+license: Apache-2.0
+metadata:
+  author: ai-agent-skills
+  version: "1.0"
+  scope: [core]
+  auto_invoke: "Array Methods / Collections"
+allowed-tools: Read, Edit, Write, Glob, Grep, Bash
 ---
 
 # Arrays JavaScript

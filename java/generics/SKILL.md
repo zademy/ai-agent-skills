@@ -1,6 +1,15 @@
 ---
 name: generics
-description: Generics in Java
+description: >
+  Generics in Java.
+  Trigger: When working with Java generics - type parameters, wildcards, bounded types
+license: Apache-2.0
+metadata:
+  author: ai-agent-skills
+  version: "1.0"
+  scope: [backend]
+  auto_invoke: "Java Generics"
+allowed-tools: Read, Edit, Write, Glob, Grep, Bash
 ---
 
 # Java Generics

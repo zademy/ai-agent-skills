@@ -1,6 +1,15 @@
 ---
 name: middleware
-description: Middleware in Nuxt 3
+description: >
+  Middleware in Nuxt 3.
+  Trigger: When working with Nuxt middleware - route guards, authentication, authorization, redirects
+license: Apache-2.0
+metadata:
+  author: ai-agent-skills
+  version: "1.0"
+  scope: [core]
+  auto_invoke: "Nuxt Middleware / Auth"
+allowed-tools: Read, Edit, Write, Glob, Grep, Bash
 ---
 
 # Nuxt 3 Middleware

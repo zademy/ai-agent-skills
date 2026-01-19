@@ -1,6 +1,15 @@
 ---
 name: routing
-description: Routing in Vue 4 with Vue Router 4
+description: >
+  Routing in Vue 4 with Vue Router 4.
+  Trigger: When working with Vue 4 routing - dynamic routes, navigation guards, route params
+license: Apache-2.0
+metadata:
+  author: ai-agent-skills
+  version: "1.0"
+  scope: [ui]
+  auto_invoke: "Vue 4 Routing"
+allowed-tools: Read, Edit, Write, Glob, Grep, Bash
 ---
 
 # Routing Vue 4

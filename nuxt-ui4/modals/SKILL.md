@@ -1,6 +1,15 @@
 ---
 name: modals
-description: Modals in Nuxt UI v4
+description: >
+  Modals in Nuxt UI v4.
+  Trigger: When working with modals - UModal, UCard, dialogs, forms in modals, size variations
+license: Apache-2.0
+metadata:
+  author: ai-agent-skills
+  version: "1.0"
+  scope: [ui]
+  auto_invoke: "Nuxt UI Modals / Dialogs"
+allowed-tools: Read, Edit, Write, Glob, Grep, Bash
 ---
 
 # Nuxt UI v4 Modals

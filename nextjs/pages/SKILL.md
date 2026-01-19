@@ -1,6 +1,15 @@
 ---
 name: pages
-description: Pages in Next.js 15 with App Router
+description: >
+  Pages in Next.js 15 with App Router.
+  Trigger: When working with Next.js pages - Page components, Server/Client Components, dynamic routes
+license: Apache-2.0
+metadata:
+  author: ai-agent-skills
+  version: "1.0"
+  scope: [ui]
+  auto_invoke: "Next.js Pages / App Router"
+allowed-tools: Read, Edit, Write, Glob, Grep, Bash
 ---
 
 # Páginas Next.js 15 (App Router)

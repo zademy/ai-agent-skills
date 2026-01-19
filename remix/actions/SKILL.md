@@ -1,6 +1,15 @@
 ---
 name: actions
-description: Actions in Remix
+description: >
+  Actions in Remix.
+  Trigger: When working with Remix actions - form handling, validation, sessions, file uploads
+license: Apache-2.0
+metadata:
+  author: ai-agent-skills
+  version: "1.0"
+  scope: [backend]
+  auto_invoke: "Remix Actions / Mutations"
+allowed-tools: Read, Edit, Write, Glob, Grep, Bash
 ---
 
 # Remix Actions

@@ -1,6 +1,15 @@
 ---
 name: routing
-description: Routing in Next.js
+description: >
+  Routing in Next.js.
+  Trigger: When working with Next.js routing - dynamic routes, route groups, linking, useRouter, parallel routes
+license: Apache-2.0
+metadata:
+  author: ai-agent-skills
+  version: "1.0"
+  scope: [ui]
+  auto_invoke: "Next.js Routing / Navigation"
+allowed-tools: Read, Edit, Write, Glob, Grep, Bash
 ---
 
 # Next.js Routing
